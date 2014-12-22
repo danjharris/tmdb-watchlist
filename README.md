@@ -1,4 +1,9 @@
 tmdb-watchlist
 ==============
 
-Simple app that uses The Movie Database API and CakePHP to display a users watchlist.
+Simple app that uses CakePHP and The Movie Database API to display a users watchlist.
+
+To Install
+==============
+
+First, one must install CakePHP to their web server.
